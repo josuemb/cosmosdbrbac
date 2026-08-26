@@ -7,7 +7,7 @@ To know more about Cosmos DB RBAC, see: [Configure role-based access control wit
 ## Requisites
 
 To be able to run this example you will need:
-- Java 11. [Microsoft OpenJdk](https://www.microsoft.com/openjdk) is recommended. See: [how to install it](https://docs.microsoft.com/en-us/java/openjdk/install).
+- Java 25. [Microsoft OpenJDK](https://www.microsoft.com/openjdk) is recommended. See: [how to install it](https://docs.microsoft.com/en-us/java/openjdk/install).
 - Any IDE or Code Editor. [Visual Studio Code](https://code.visualstudio.com/) is recommended. See [how to install it](https://code.visualstudio.com/docs/setup/setup-overview).
 - This project is [Apache Maven](https://maven.apache.org/) based, so even when it is not absolutely necessary since several IDEs/editor has built-in support is recommended to install it. See [how to install it](https://maven.apache.org/install.html).
 - Having a Cosmos DB Account. See [how to create it](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/create-sql-api-dotnet#create-account).
